@@ -1,4 +1,4 @@
-// file: /components/ResponseDisplay.js
+// File: /components/ResponseDisplay.js
 const ResponseDisplay = ({ data, error, loading }) => {
   let content;
 
@@ -11,8 +11,15 @@ const ResponseDisplay = ({ data, error, loading }) => {
 
     content = (
       <>
-        <p>Name: {data.result.animalPetName}</p>
-        <p>Description: {data.result.description}</p>
+        <p>Domain Name: {data.result.domainName}</p>
+        <p>Initials Used: {data.result.initials}</p>
+        <p>Step-by-Step Instructions:</p>
+        <ul>
+          {data.result.instructions.map((instruction, index) => (
+            <li key={index}>{instruction}</li>
+          ))}
+        </ul>
+        <p>Monetization Options: {data.result.monetization}</p>
       </>
     );
   } else {

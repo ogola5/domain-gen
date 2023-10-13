@@ -93,3 +93,7 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 The use of the OpenAI API and the output it generates depends on the usage policies set by OpenAI. Make sure to review the OpenAI use case policy before using this boilerplate to build applications.
+
+##Link to chatgpt prompts
+https://chat.openai.com/c/a8c51657-fe39-441f-8ecf-b589ebed8cfe
+

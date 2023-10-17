@@ -4,11 +4,11 @@ The MVP AI app is a domain name generator tailored for businesses from different
 
 ## Live Demo
 
-(your deployed link can go here)[]
+(your deployed link can go here)
 
 ## ChatGPT conversation
 
-(Your conversation link can go here)[]
+(Your conversation link can go here)
 
 ## Features
 

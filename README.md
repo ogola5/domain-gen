@@ -1,6 +1,14 @@
-# Next.js OpenAI Boilerplate
+# Domain-gen
 
-This is a simplified yet effective Next.js boilerplate project that showcases how to integrate the OpenAI API within a Next.js application. The boilerplate incorporates a user-friendly interface for submitting prompts and rendering the response from the OpenAI API.
+The MVP AI app is a domain name generator tailored for businesses from different locations,sectors, offering users the ability to effortlessly find domain names that combine their industry with their location. This tool streamlines the process of securing a memorable and relevant online presence, making it easier for companies to establish themselves in the digital landscape.
+
+## Live Demo
+
+(your deployed link can go here)
+
+## ChatGPT conversation
+
+(Your conversation link can go here)
 
 ## Features
 
